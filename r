@@ -7,7 +7,7 @@ sudo apt install npm
 npm install -g yarn 
 
 
-
+gg
 apt install cargo
 
 
