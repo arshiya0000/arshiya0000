@@ -4,7 +4,7 @@ sudo apt install npm
 
 dd
 hhh8
-npm install -g yarn 
+npm install -g hhyarn 
 
 
 gg
