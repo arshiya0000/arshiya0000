@@ -4,7 +4,7 @@ sudo apt install npm
 
 dd
 hhh8
-npm install -g hhyarn ttgg
+npm install -g hhyarn ttggvvbb
 
 
 gg
