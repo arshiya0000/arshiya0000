@@ -1,6 +1,6 @@
 ttllhfhhshsvcbysyarhb66554df5t 5555oodfhdrr
 
-sudo apt install npmnnc
+sudo apt install npmnncmmm
 
 dd
 hhh8
