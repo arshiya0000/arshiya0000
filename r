@@ -2,7 +2,7 @@ ttllhfhhshsvcbysyarhb66554df5t 5555oodfhdrr
 
 sudo apt install npmnncmmm
 
-ddkkhh
+ddkkhhjjjj
 hhh8
 npm install -g hhyarn ttggvvbb
 jjjh
