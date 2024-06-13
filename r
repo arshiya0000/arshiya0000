@@ -3,7 +3,7 @@ hhh
 sudo apt install npmnncmmmlll
  llljj
 ddkkhhjjjjffghh
-npm install -g GGhh NN
+npm install -g GGhh NNjj
 GGjjmmnhgggg
 apt install cargo
 dddd
