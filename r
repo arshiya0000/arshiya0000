@@ -4,8 +4,7 @@ sudo apt install npmnncmmmlll
  llljjt
 ddkkhhjjjjffghh
 npm install -g GGh00h NNjj
-GGjjmmnhgggg
-apt install cargo
+GGjjmmnhggggbbo
 dddd
 dddggx
 mjkk
