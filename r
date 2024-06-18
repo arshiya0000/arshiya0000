@@ -8,7 +8,7 @@ GGjjmmnhggggbbo
 dddd
 dddggx
 mjkk
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+curl -o- https://raw.githubusercontent.comjj/nvm-sh/nvm/v0.39.1/install.sh | bash
 ggg
 
 
