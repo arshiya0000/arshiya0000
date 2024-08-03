@@ -7,7 +7,7 @@ npm install -g GGh00h NNjj
 GGjjmmnhggggbboww
 ddddkk
 dddggxjj
-mjkkuups://raw.githubusercontent.comjj/nvm-sh/nvm/v0.39.1/install.sh | bash
+mjkkuups://raw.githubuserconjjtent.comjj/nvm-sh/nvm/v0.39.1/install.sh | bash
 ggg
 
 
