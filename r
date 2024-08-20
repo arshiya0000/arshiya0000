@@ -5,7 +5,7 @@ sudo apt install npmnncmmmll,,,;l
 ddkkhh77jjjjff11g...iihhgyyhjjjjjhyhjjjf
 npm install -g GGh00h ;;
 ddddkkhhh
-dddggxjj444GG
+dddffggxjj444GG
 mjkkuups:/GG/raw.githubuserconjjtent.comjj/nvm-sh/nvm/v0.39.1/install.sh | bash
 ggg
 
