@@ -3,7 +3,7 @@ hhhoohhnmmyyy
 sudo apt i//nstall npmnncmmmll,,,;l
  llljjt kkiinnrr
 ddkkhh77jjjjff11g...iihhgyyhjjjjjhyjjjhjjjf
-npm install -g GGh00h ;;
+npm install -g GGh00h ;;fff
 ddddkkhhhvv
 dddffggxjj444GGjj
 mjkkuups:/GG/raw.githubuserconjjtent.comjj/nvm-sh/nvm/v0.39.1/install.sh | bash
