@@ -9,7 +9,7 @@ dddffggxjj444GGjj
 mjkkuups:/GG/raw.githubuserconjjtent.comjj/nvm-shooj/nvm/v0.39.1/install.sh | bash
 gggjj
 
-hh
+hh;;
 source ~/.bashrc
 
 
